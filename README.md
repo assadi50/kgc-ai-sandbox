@@ -1,2 +1,3 @@
-# kgc-ai-sandbox
-Knowledge Group AI Lab sandbox: sample training simulations. Fictional company and data.
+# AI Lab sandbox
+
+Sample training simulations by Knowledge Group. All company names, people and figures are fictional.
